@@ -1,0 +1,7 @@
+def(__absinthe_types__(:a)) do
+  nil
+end
+
+def(__absinthe_types__(:a)) do
+  nil
+end
